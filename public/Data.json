@@ -1,0 +1,74 @@
+[
+    {
+        "Id": 0,
+        "img": "https://img.freepik.com/free-photo/luxury-pool-villa-spectacular-contemporary-design-digital-art-real-estate-home-house-property-ge_1258-150749.jpg?t=st=1713330158~exp=1713333758~hmac=43450bb0cb751b54f34afb40fb31891607bb05521bb41db78d7e1dbad32f1bb6&w=740",
+        "estate_title": "Cool Mansions",
+        "segment_name": "mansions",
+        "description": "mansion for the best rent price",
+        "price": "$3000/night",
+        "Status": "rent",
+        "Area": "4500",
+        "location": "9JVV+FC-Hurghada 2",
+        "facilities": " multiple bedrooms and bathrooms, a gourmet kitchen, a home theater, a gym or fitness center, a swimming pool, a spa or sauna, a wine cellar, a library or study, a game room, a home office"
+    },
+    {
+        "Id": 1,
+        "img": "https://img.freepik.com/free-photo/3d-house-model-with-modern-architecture_23-2151004062.jpg?t=st=1713330204~exp=1713333804~hmac=44a5ef1481a2270f52484b74eb83fd15e7be9baa8724026d450c7a2b111a9e6d&w=740",
+        "estate_title": "Awasome villas for rent",
+        "segment_name": "Villas",
+        "description": "villas for rent in the monthly payment ",
+        "price": "5500/month",
+        "Status": "rent",
+        "Area": "2000",
+        "location": "Marina Abu Tig",
+        "facilities": "Private Outdoor Spaces,Gourmet Kitchen,Recreational Facilities"
+    },
+    {
+        "Id": 2,
+        "img": "https://img.freepik.com/free-photo/outdoor-swimming-pool_1203-3542.jpg?t=st=1713330250~exp=1713333850~hmac=51647a842b01636627c1edb81588946d696b868a964a76b20c6f889da0394076&w=740",
+        "estate_title": "private islands for rent",
+        "segment_name": "private islands",
+        "description": "the parivate island for sale for the best price",
+        "price": "$70,000",
+        "Status": "sale",
+        "Area": "5000",
+        "location": "Egypt",
+        "facilities": "Private Beaches,Wellness and Recreation Facilities,Staff and Services"
+    },
+    {
+        "Id": 3,
+        "img": "https://img.freepik.com/free-photo/leisure-beautiful-health-garden-landscape_1203-4856.jpg?t=st=1713330280~exp=1713333880~hmac=ab2ea9eae3b821ec386e41627f7db4fa301317eb8760a43ff9a2169515af2104&w=740",
+        "estate_title": "resorts for sale",
+        "segment_name": " resorts",
+        "description": "this sale resorts for the best deal and offer",
+        "price": "$25000",
+        "Status": "sale",
+        "Area": "5600",
+        "location": "Hurghada, Egypt",
+        "facilities": "Concierge Services,Dining Options"
+    },
+    {
+        "Id": 4,
+        "img": "https://img.freepik.com/free-photo/young-stylish-hipster-couple-love-walking-playing-dog-puppy-jack-russell-tropical-beach-cool-outfit-romantic-mood-having-fun-sunny-man-woman-together-horizontal-vacation-house-home-villa_285396-2447.jpg?t=st=1713330313~exp=1713333913~hmac=599f79ad40d7bac9b2c10a1e7020ef5a1e409a0e373e5e7df18d0f9e899d0f46&w=740",
+        "estate_title": "Beachfront properties for rent",
+        "segment_name": "Beachfront properties",
+        "description": "there you have the all fasality what all are need for you",
+        "price": "$7000/night",
+        "Status": "rent",
+        "Area": "3000",
+        "location": "Touristic Villages,Egypt",
+        "facilities": "Resort-style Amenities,Waterfront Activities"
+    },
+    {
+        "Id": 5,
+        "img": "https://img.freepik.com/free-photo/analog-landscape-city-with-buildings_23-2149661456.jpg?t=st=1713330360~exp=1713333960~hmac=b083cd6b056400ae7260d1e6e113956deda0f1745c7efeddb875355d828c1a26&w=740",
+        "estate_title": "Penthouse for rent",
+        "segment_name": "Penthouse",
+        "description": "The penthouse for sale and for this time it will  be low price sale  ",
+        "price": "$2700",
+        "Status": "sale",
+        "Area": "2300",
+        "location": "House#14,1219",
+        "facilities": "marble countertops, and designer lighting"
+    }
+]
